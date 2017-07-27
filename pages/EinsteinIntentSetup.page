@@ -1,7 +1,7 @@
 <apex:page controller="EinsteinIntentSetup">
   <apex:sectionHeader title="Einstein Language Intent Setup" />
   
-  <apex:pageMessages id="messages" />
+  <apex:pageMessages id="messages" /> <!-- Display messages here -->
   
   <apex:form >
       <apex:pageBlock mode="maindetail">
